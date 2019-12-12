@@ -1,0 +1,46 @@
+{
+  "ret": true,
+  "data": {
+    "shoppingList":[
+      {
+        "id": "0001",
+        "imgUrl": "//fuss10.elemecdn.com/b/d6/6f39b934fdf889dd0220e97f23a5cjpeg.jpeg?imageMogr/format/webp/thumbnail/150x/",
+        "title": "汉堡王（西安印象城店2447号）",
+        "star": "★ 4.8",
+        "sales": "月售1901",
+        "delivery": "起送￥20 配送￥1.1 ",
+        "del": "￥4.1",
+        "time": "30分钟 2.9km",
+        "commit":["奶茶特别好喝","未央区汉堡薯条第6名"],
+        "discount":["首单减23","55减10","79减25","8元会员红包"],
+        "hear":"附近还有1家汉堡王"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "//fuss10.elemecdn.com/0/60/3bf2af243aea4db4a8e111c0fdcd3png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "title": "小六汤包（印象城店）",
+        "star": "★ 4.7",
+        "sales": "月售2168",
+        "delivery": "起送￥20 远距离配送￥1.6 ",
+        "del": "￥4.6",
+        "time": "49分钟 3.1km",
+        "commit":["棒棒哒，又快又好，糜子甜饭力荐"],
+        "discount":["首单减20","35减6","55减9","85减13","120减15"],
+        "hear":"附近还有2家小六汤包"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "//fuss10.elemecdn.com/2/27/a2109274980610deef43ab8a848a3png.png?imageMogr/format/webp/thumbnail/150x/",
+        "title": "德克士（凤城店）",
+        "star": "★ 4.6",
+        "sales": "月售2449",
+        "delivery": "起送￥20 配送￥3.6 ",
+        "del": "",
+        "time": "20分钟 388m",
+        "commit":["非常划算，值得购买","未央区汉堡薯条回头率第2名"],
+        "discount":["首单减25","35减12","55减22","80减30"],
+        "hear":"附近还有3家德克士"
+      }
+    ]
+  }
+}

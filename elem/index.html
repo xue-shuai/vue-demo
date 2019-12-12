@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>elem</title>
+    <script src="http://api.map.baidu.com/api?v=2.0&ak=Cf8MtkoBgM7TdvQmlNKetMNgNvE9cD6T"></script>
+  </head>
+  <script>
+    (function () {
+      let html = document.documentElement;
+      let hw = html.getBoundingClientRect().width;
+      html.style.fontSize = hw/18 + 'px';
+      // 1rem = 1080/18 = 60px
+    })()
+  </script>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>

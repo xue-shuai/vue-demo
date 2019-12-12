@@ -1,0 +1,2 @@
+webpackJsonp([1],{"7TJY":function(e,t){},ypOz:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"scal"},[t("h1",[this._v("此处应为扫描二维码")])])}]};var c=n("VU/8")({},s,!1,function(e){n("7TJY")},"data-v-b040ec1a",null);t.default=c.exports}});
+//# sourceMappingURL=1.8cf75b4155c07af19cc2.js.map
