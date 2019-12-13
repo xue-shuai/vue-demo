@@ -47,7 +47,7 @@ export default {
       }
     },
     getShoppingInfo () {
-      axios.get('/vue-demo/elem/static/mock/swiper.json')
+      axios.get('/vue-demo/elem/static/mock/shopping.json')
         .then(this.getShoppingInfoSucc)
     },
     getShoppingInfoSucc (res) {
