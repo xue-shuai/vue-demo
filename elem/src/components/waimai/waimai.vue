@@ -35,7 +35,7 @@ export default {
   },
   methods: {
     getWaimaiInfo () {
-      axios.get('/static/mock/swiper.json')
+      axios.get('/vue-demo/elem/static/mock/swiper.json')
         .then(this.getWaimaiInfoSucc)
     },
     getWaimaiInfoSucc (res) {
@@ -47,7 +47,7 @@ export default {
       }
     },
     getShoppingInfo () {
-      axios.get('/static/mock/shopping.json')
+      axios.get('/vue-demo/elem/static/mock/swiper.json')
         .then(this.getShoppingInfoSucc)
     },
     getShoppingInfoSucc (res) {
