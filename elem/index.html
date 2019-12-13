@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <title>elem</title>
     <script src="http://api.map.baidu.com/api?v=2.0&ak=Cf8MtkoBgM7TdvQmlNKetMNgNvE9cD6T"></script>
   </head>
@@ -12,6 +13,7 @@
       let hw = html.getBoundingClientRect().width;
       html.style.fontSize = hw/18 + 'px';
       // 1rem = 1080/18 = 60px
+      console.log('页面开始')
     })()
   </script>
   <body>
